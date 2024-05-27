@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.countainer{
+    max-width: 100%;
+}
+.Account{
+    font-size: 1vw;
+}
+.button{
+    background-color:#16213E;
+}
+.signInDiv{
+    text-align: center;
+}
+
+
+
+
+
+
+
+ 
